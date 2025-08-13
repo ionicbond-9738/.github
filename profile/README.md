@@ -3,7 +3,7 @@ We are 9738 Ionic Bond, an _FIRST_ Robotics Competition team from Tel-Mond, Isra
 Our team is active since 2024.
 
 ### Social
-<a href="https://www.instagram.com/ionic.bond_/" target="_blank">
+<a href="https://www.instagram.com/ionic_bond_9738/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;"/>
 </a>
 
